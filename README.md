@@ -1,3 +1,14 @@
+## Make eBooks directly in Github using just Javascript!
+
+# Motivation
+
+GitHub has:
+
+- a "Download as Zip" and an EPUB is a Zip file
+- commit hooks that can be used to generate PDFs
+- an API that allows concurrent editing and permission management
+- a way to host HTML files using a special `gh-pages` branch
+
 # Development and Building
 
 Below are instructions for building the book editor yourself and a layout
